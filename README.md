@@ -1,4 +1,4 @@
-# Eco-friendly-polymer-compounds-incineration
+# Eco-friendly-polymer-compounds-treatment
 
 This project is an open, non-commercial platform for developing, testing, and improving environmentally friendly methods for polymer compoundS incineration.
 
