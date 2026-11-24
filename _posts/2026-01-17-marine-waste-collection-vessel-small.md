@@ -49,9 +49,9 @@ The proposed system is intended to treat non-recyclable plastic recovered at sea
 
 ## 4. Onboard Preparation and Treatment
 
-The small-vessel concept includes a shredder, a dewatering unit, a mechanical agitator, and an automatic reprocessing device.
+The small-vessel concept includes a shredder, a dewatering unit, a mechanical agitator, and an automatic ash discharge system.
 
-After sorting, the remaining plastic is shredded and dewatered before it is fed to the three AFC/SSOF chambers. The concept uses mechanical agitation during processing and includes a device that automatically returns material requiring further treatment for another pass.
+After sorting, the remaining plastic is shredded and dewatered before it enters the AFC/SSOF chambers. The onboard design also includes a mechanical agitator and an automatic ash discharge system.
 
 A shipboard trial would assess how much dewatering is needed for different loads of recovered plastic and measure emissions during onboard operation.
 
