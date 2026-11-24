@@ -97,7 +97,8 @@ and the control system installed in the cabin, allowing for independent or mixed
 ---
 **Document status**
 - Stage: Concept 
-- Last updated: 2026-02-07
+- Originally written: 2026-02-07
+- Last updated: 2026-11-24
 - Looking for: peer review 
 ---
 
