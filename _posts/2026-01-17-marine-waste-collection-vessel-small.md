@@ -44,21 +44,16 @@ A shipboard trial would measure how moisture affects onboard treatment and compa
 ## 3. Types of thermal-treatable marine wastes
 
 <span style="color:#1e40af; font-weight:bold;">
-Simply put, non-recyclable plastic waste remaining after sorting can be treated using this thermal treatment technology. 
-The only exceptions are things like clogged glass bottles and butane gas canisters.
+The proposed system is intended to treat non-recyclable plastic recovered at sea and separated from other debris during sorting.
 </span>
 
-## 4. Eco-friendly thermal treatment of high-moisture marine waste
+## 4. Onboard Preparation and Treatment
 
-Unlike batch incinerators, this method can continuously feed waste 
-into the upper part of the chamber, and can sufficiently thermal treat
-marine waste with a high moisture content (waste with a moisture content of about 80%) 
-after a slight dehydration process.
+The small-vessel concept includes a shredder, a dewatering unit, a mechanical agitator, and an automatic reprocessing device.
 
-Most SPCW have very low water content. Therefore, simply shaking off the moisture 
-on the surface of the collected SPCW will suffice for thermal treatment
-in this type of chamber. 
-In this area, it is also crucial to expand quantitative data after implementation.
+After sorting, the remaining plastic is shredded and dewatered before it is fed to the three AFC/SSOF chambers. The concept uses mechanical agitation during processing and includes a device that automatically returns material requiring further treatment for another pass.
+
+A shipboard trial would assess how much dewatering is needed for different loads of recovered plastic and measure emissions during onboard operation.
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/smallboat-layout.png' | relative_url }}"
@@ -97,7 +92,7 @@ and the control system installed in the cabin, allowing for independent or mixed
 ---
 **Document status**
 - Stage: Concept 
-- Originally written: 2026-02-07
+- Originally written: 2026-01-07
 - Last updated: 2026-11-24
 - Looking for: peer review 
 ---
